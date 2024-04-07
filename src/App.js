@@ -5,9 +5,9 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <header className="App-header">Alicia's Dictionary 📖</header>
+        <header className="App-header"> 📚 Dictionary App 📖</header>
         <main>
-          <Dictionary defaultKeyword="hello" />
+          <Dictionary defaultKeyword="sunrise" />
         </main>
       </div>
       <footer className="app-footer">
